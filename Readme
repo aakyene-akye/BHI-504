@@ -1,9 +1,5 @@
 # 💊 Secure Prescription Reminder App with Safety Features
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Completed-success.svg)](https://github.com)
-
 > A Python-based prescription reminder application with drug interaction checking and safety features for improved medication adherence.
 
 **Course:** BHI 507 - Biomedical and Health Informatics  
@@ -91,7 +87,7 @@ This application demonstrates key health informatics concepts including patient 
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/secure-prescription-reminder-app.git
+   git clone https://github.com/aakyene-akye/secure-prescription-reminder-app.git
    cd secure-prescription-reminder-app
 ```
 
