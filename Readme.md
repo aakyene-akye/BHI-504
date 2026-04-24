@@ -2,9 +2,9 @@
 
 > A Python-based prescription reminder application with drug interaction checking and safety features for improved medication adherence.
 
-**Course:** BHI 507 - Biomedical and Health Informatics  
+**Course:** BHI 504 - Systems Design, Integration, Safety & Security  
 **Institution:** SUNY Oswego  
-**Semester:** Spring 2025
+**Semester:** Spring 2026
 
 ---
 
@@ -15,8 +15,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [Testing](#testing)
-- [Project Highlights](#project-highlights)
 
 ---
 
@@ -67,24 +65,7 @@ This application demonstrates key health informatics concepts including patient 
 ## 📥 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
-
-### Steps
-
-1. **Clone the repository:**
-```bash
-   git clone https://github.com/aakyene-akye/secure-prescription-reminder-app.git
-   cd secure-prescription-reminder-app
-```
-
-2. **No additional installation needed!**
-   The project uses only Python standard library.
-
-3. **Verify Python version:**
-```bash
-   python3 --version
-```
-   Should output Python 3.8 or higher.
+- You need Python 3.8 or higher
 
 ---
 
@@ -185,42 +166,6 @@ The project consists of **4 main classes** following object-oriented programming
 
 ---
 
-## 🧪 Testing
 
-The project includes **comprehensive test coverage** to ensure reliability:
-
-### Test Categories
-
-| Test Type | Coverage | Test Count |
-|-----------|----------|------------|
-| User Authentication | Login/logout, password validation | 5 tests |
-| Prescription Management | Create, track, retrieve prescriptions | 4 tests |
-| Drug Interaction Checker | Detect interactions, handle edge cases | 3 tests |
-| Reminder Service | Send reminders, track history | 3 tests |
-| Integration Testing | Complete user workflows | 1 test |
-
-## 🌟 Project Highlights
-
-### Health Informatics Concepts Demonstrated
-
-1. **Patient Safety**
-   - Drug interaction checking reduces adverse events
-   - Automated reminders improve adherence
-   - Data validation prevents errors
-
-2. **Clinical Decision Support**
-   - Real-time interaction alerts
-   - Evidence-based warnings
-   - Actionable recommendations
-
-3. **Health Data Management**
-   - Structured data storage
-   - CRUD operations (Create, Read, Update, Delete)
-   - Data integrity through validation
-
-4. **User-Centered Design**
-   - Simple authentication flow
-   - Clear error messages
-   - Intuitive class structure
 
 
