@@ -1,9 +1,5 @@
 # 💊 Secure Prescription Reminder App with Safety Features
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Completed-success.svg)](https://github.com)
-
 > A Python-based prescription reminder application with drug interaction checking and safety features for improved medication adherence.
 
 **Course:** BHI 507 - Biomedical and Health Informatics  
@@ -16,7 +12,6 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
@@ -69,17 +64,6 @@ This application demonstrates key health informatics concepts including patient 
 
 ---
 
-## 🛠️ Technology Stack
-
-- **Language:** Python 3.8+
-- **Core Libraries:** 
-  - `datetime` - Date and time management
-  - `typing` - Type hints for code clarity
-
-**No external dependencies required!** This project uses only Python standard library.
-
----
-
 ## 📥 Installation
 
 ### Prerequisites
@@ -108,15 +92,15 @@ This application demonstrates key health informatics concepts including patient 
 
 ### Running the Application
 
-**Option 1: Using Jupyter Notebook (Recommended)**
+**Option 1: Using Jupyter Notebook**
 ```bash
 jupyter notebook Secure_Prescription_App.ipynb
 ```
 
-**Option 2: Using JupyterLab**
-```bash
-jupyter lab Secure_Prescription_App.ipynb
-```
+**Option 2: Using Google Colab**
+1. Go to https://colab.research.google.com
+2. Upload `Secure_Prescription_App.ipynb`
+3. Run all cells
 
 ### Quick Start Example
 
